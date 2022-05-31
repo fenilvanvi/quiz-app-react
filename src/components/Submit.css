@@ -1,0 +1,9 @@
+.submit-container {
+  display: flex;
+  flex-direction: column;
+  margin: 100px 10px;
+}
+
+.submit-body {
+  padding: 30px;
+}
